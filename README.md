@@ -5,7 +5,7 @@ Este programa permite que você selecione um arquivo .txt contendo a matriz de a
 Um grafo é considerado planar se ele puder ser desenhado no plano sem que suas arestas se cruzem.
 
 📁 Exemplo de arquivo .txt esperado
-O programa espera que o arquivo contenha apenas a matriz de adjacência, sem título, e que os valores estejam separados por espaço, como no exemplo abaixo:
+O programa espera que o arquivo contenha apenas a matriz de adjacência, sem título, e que os valores estejam separados por espaço, como no exemplo abaixo:                                                      
 0 0 0 0 0  
 1 0 0 1 0  
 0 1 0 1 0  
